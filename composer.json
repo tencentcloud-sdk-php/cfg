@@ -1,0 +1,23 @@
+{
+    "name": "tencentcloud/cfg",
+    "description": "TencentCloudApi php sdk cfg",
+    "type": "library",
+    "homepage": "https://github.com/tencentcloud-sdk-php/cfg",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "tencentcloudapi",
+            "email": "tencentcloudapi@tencent.com",
+            "homepage": "https://github.com/tencentcloud-sdk-php/cfg",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "tencentcloud/common": "3.0.248"
+    },
+    "autoload": {
+        "psr-4": {
+            "TencentCloud\\": "./src/TencentCloud"
+        }
+    }
+}
