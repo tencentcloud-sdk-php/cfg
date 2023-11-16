@@ -18,7 +18,7 @@ namespace TencentCloud\Cfg\V20210820\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**
- * 应用性能观测产品中应用信息
+ * 应用性能监控产品中应用信息
  *
  * @method string getInstanceId() 获取业务ID
 注意：此字段可能返回 null，表示取不到有效值。
